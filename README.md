@@ -1,6 +1,6 @@
 # decision_tree_tutorial
 
-cision Trees vs Random Forests Tutorial
+Dcision Trees vs Random Forests Tutorial
 
 Zafar Iftikhar
 
